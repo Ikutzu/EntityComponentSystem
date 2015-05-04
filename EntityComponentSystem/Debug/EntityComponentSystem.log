@@ -1,0 +1,3 @@
+﻿  SystemManager.cpp
+c:\users\tti13smikaelo\documents\visual studio 2013\projects\entitycomponentsystem\entitycomponentsystem\systemmanager.cpp(20): warning C4018: '<' : signed/unsigned mismatch
+  EntityComponentSystem.vcxproj -> C:\Users\tti13smikaelo\Documents\Visual Studio 2013\Projects\EntityComponentSystem\Debug\EntityComponentSystem.exe

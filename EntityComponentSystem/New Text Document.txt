@@ -1,0 +1,3 @@
+tee void AddComponent(Component* component)
+ja Component* AetComponent()
+unordered_mapip<const std::type_info*, Component*> components
